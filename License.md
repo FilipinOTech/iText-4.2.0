@@ -361,15 +361,13 @@ for such a notice.
 You may add additional accurate notices of copyright ownership.
 
 
+************************************************************************
+*                                                                      *
+************************************************************************
 
 
-
-
-
-
-
-                  GNU LESSER GENERAL PUBLIC LICENSE
-                  =================================
+GNU LESSER GENERAL PUBLIC LICENSE
+=================================
                        Version 2.1, February 1999
 
  Copyright (C) 1991, 1999 Free Software Foundation, Inc.
@@ -483,8 +481,8 @@ modification follow.  Pay close attention to the difference between a
 former contains code derived from the library, whereas the latter must
 be combined with the library in order to run.
 
-                  GNU LESSER GENERAL PUBLIC LICENSE
-                  ---------------------------------
+GNU LESSER GENERAL PUBLIC LICENSE
+---------------------------------
    TERMS AND CONDITIONS FOR COPYING, DISTRIBUTION AND MODIFICATION
 
   0. This License Agreement applies to any software library or other
